@@ -12,7 +12,9 @@ To start using this project you need:
 4. $ pip install -r req.txt
  
 5. $ python manage.py migrate
+
+6. python manage.py runserver
  
-6. To run script for task 1 you need to use $ python task_1_script.py
+7. To run script for task 1 you need to use $ python task_1_script.py
  
-7. To run script for task 2 you need to use $ python task_2_script.py
+8. To run script for task 2 you need to use $ python task_2_script.py
