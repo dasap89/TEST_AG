@@ -1,4 +1,3 @@
-# TEST_AG
 Test for Attract Group
 
 To start using this project you need:
