@@ -20,10 +20,12 @@ def CurrencyConverter1(currency_from, currency_to, currency_input):
                 currency_output,
                 currency_to)
             return result
-        except (ValueError, KeyError, TypeError):
+        except (ValueError, KeyError, TypeError), e:
+            print e
             return "JSON format error"
 
     except IOError, e:
+        print e
         if hasattr(e, 'code'):
             return e.code
         elif hasattr(e, 'reason'):
