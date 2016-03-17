@@ -1,0 +1,1045 @@
+[
+  {
+    "model": "education_data.CurrencyList",
+    "pk": 1,
+    "fields": {
+      "cur_short_name": "AED"
+    }
+  },
+  {
+    "model": "education_data.CurrencyList",
+    "pk": 2,
+    "fields": {
+      "cur_short_name": "AFN"
+    }
+  },
+  {
+    "model": "education_data.CurrencyList",
+    "pk": 3,
+    "fields": {
+      "cur_short_name": "ALL"
+    }
+  },
+  {
+    "model": "education_data.CurrencyList",
+    "pk": 4,
+    "fields": {
+      "cur_short_name": "AMD"
+    }
+  },
+  {
+    "model": "education_data.CurrencyList",
+    "pk": 5,
+    "fields": {
+      "cur_short_name": "ANG"
+    }
+  },
+  {
+    "model": "education_data.CurrencyList",
+    "pk": 6,
+    "fields": {
+      "cur_short_name": "AOA"
+    }
+  },
+  {
+    "model": "education_data.CurrencyList",
+    "pk": 7,
+    "fields": {
+      "cur_short_name": "ARS"
+    }
+  },
+  {
+    "model": "education_data.CurrencyList",
+    "pk": 8,
+    "fields": {
+      "cur_short_name": "AUD"
+    }
+  },
+  {
+    "model": "education_data.CurrencyList",
+    "pk": 9,
+    "fields": {
+      "cur_short_name": "AWG"
+    }
+  },
+  {
+    "model": "education_data.CurrencyList",
+    "pk": 10,
+    "fields": {
+      "cur_short_name": "AZN"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 11,
+    "fields": {
+      "cur_short_name": "BAM"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 12,
+    "fields": {
+      "cur_short_name": "BBD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 13,
+    "fields": {
+      "cur_short_name": "BDT"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 14,
+    "fields": {
+      "cur_short_name": "BGN"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 15,
+    "fields": {
+      "cur_short_name": "BHD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 16,
+    "fields": {
+      "cur_short_name": "BIF"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 17,
+    "fields": {
+      "cur_short_name": "BMD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 18,
+    "fields": {
+      "cur_short_name": "BND"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 19,
+    "fields": {
+      "cur_short_name": "BRL"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 20,
+    "fields": {
+      "cur_short_name": "BWP"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 21,
+    "fields": {
+      "cur_short_name": "BYR"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 22,
+    "fields": {
+      "cur_short_name": "BZD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 23,
+    "fields": {
+      "cur_short_name": "CAD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 24,
+    "fields": {
+      "cur_short_name": "CDF"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 25,
+    "fields": {
+      "cur_short_name": "CHF"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 26,
+    "fields": {
+      "cur_short_name": "CLF"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 27,
+    "fields": {
+      "cur_short_name": "CLP"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 28,
+    "fields": {
+      "cur_short_name": "CNY"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 29,
+    "fields": {
+      "cur_short_name": "COP"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 30,
+    "fields": {
+      "cur_short_name": "CRC"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 31,
+    "fields": {
+      "cur_short_name": "CUP"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 32,
+    "fields": {
+      "cur_short_name": "CVE"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 33,
+    "fields": {
+      "cur_short_name": "CZK"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 34,
+    "fields": {
+      "cur_short_name": "DJF"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 35,
+    "fields": {
+      "cur_short_name": "DKK"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 36,
+    "fields": {
+      "cur_short_name": "DOP"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 37,
+    "fields": {
+      "cur_short_name": "DZD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 38,
+    "fields": {
+      "cur_short_name": "EGP"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 39,
+    "fields": {
+      "cur_short_name": "ERN"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 40,
+    "fields": {
+      "cur_short_name": "ETB"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 41,
+    "fields": {
+      "cur_short_name": "EUR"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 42,
+    "fields": {
+      "cur_short_name": "FJD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 43,
+    "fields": {
+      "cur_short_name": "FKP"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 44,
+    "fields": {
+      "cur_short_name": "GBP"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 45,
+    "fields": {
+      "cur_short_name": "GEL"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 46,
+    "fields": {
+      "cur_short_name": "GHS"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 47,
+    "fields": {
+      "cur_short_name": "GIP"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 48,
+    "fields": {
+      "cur_short_name": "GMD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 49,
+    "fields": {
+      "cur_short_name": "GNF"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 50,
+    "fields": {
+      "cur_short_name": "GTQ"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 51,
+    "fields": {
+      "cur_short_name": "GYD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 52,
+    "fields": {
+      "cur_short_name": "HKD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 53,
+    "fields": {
+      "cur_short_name": "HNL"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 54,
+    "fields": {
+      "cur_short_name": "HRK"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 55,
+    "fields": {
+      "cur_short_name": "HTG"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 56,
+    "fields": {
+      "cur_short_name": "HUF"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 57,
+    "fields": {
+      "cur_short_name": "IDR"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 58,
+    "fields": {
+      "cur_short_name": "ILS"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 59,
+    "fields": {
+      "cur_short_name": "INR"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 60,
+    "fields": {
+      "cur_short_name": "IQD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 61,
+    "fields": {
+      "cur_short_name": "IRR"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 62,
+    "fields": {
+      "cur_short_name": "ISK"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 63,
+    "fields": {
+      "cur_short_name": "JMD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 64,
+    "fields": {
+      "cur_short_name": "JOD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 65,
+    "fields": {
+      "cur_short_name": "JPY"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 66,
+    "fields": {
+      "cur_short_name": "KES"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 67,
+    "fields": {
+      "cur_short_name": "KGS"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 68,
+    "fields": {
+      "cur_short_name": "KHR"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 69,
+    "fields": {
+      "cur_short_name": "KMF"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 70,
+    "fields": {
+      "cur_short_name": "KPW"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 71,
+    "fields": {
+      "cur_short_name": "KRW"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 72,
+    "fields": {
+      "cur_short_name": "KWD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 73,
+    "fields": {
+      "cur_short_name": "KYD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 74,
+    "fields": {
+      "cur_short_name": "KZT"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 75,
+    "fields": {
+      "cur_short_name": "LAK"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 76,
+    "fields": {
+      "cur_short_name": "LBP"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 77,
+    "fields": {
+      "cur_short_name": "LKR"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 78,
+    "fields": {
+      "cur_short_name": "LRD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 79,
+    "fields": {
+      "cur_short_name": "LSL"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 80,
+    "fields": {
+      "cur_short_name": "LYD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 81,
+    "fields": {
+      "cur_short_name": "MAD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 82,
+    "fields": {
+      "cur_short_name": "MDL"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 83,
+    "fields": {
+      "cur_short_name": "MGA"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 84,
+    "fields": {
+      "cur_short_name": "MKD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 85,
+    "fields": {
+      "cur_short_name": "MMK"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 86,
+    "fields": {
+      "cur_short_name": "MNT"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 87,
+    "fields": {
+      "cur_short_name": "MOP"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 88,
+    "fields": {
+      "cur_short_name": "MRO"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 89,
+    "fields": {
+      "cur_short_name": "MUR"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 90,
+    "fields": {
+      "cur_short_name": "MVR"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 91,
+    "fields": {
+      "cur_short_name": "MWK"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 92,
+    "fields": {
+      "cur_short_name": "MXN"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 93,
+    "fields": {
+      "cur_short_name": "MXV"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 94,
+    "fields": {
+      "cur_short_name": "MYR"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 95,
+    "fields": {
+      "cur_short_name": "MZN"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 96,
+    "fields": {
+      "cur_short_name": "NAD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 97,
+    "fields": {
+      "cur_short_name": "NGN"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 98,
+    "fields": {
+      "cur_short_name": "NIO"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 99,
+    "fields": {
+      "cur_short_name": "NOK"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 100,
+    "fields": {
+      "cur_short_name": "NPR"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 101,
+    "fields": {
+      "cur_short_name": "NZD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 102,
+    "fields": {
+      "cur_short_name": "OMR"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 103,
+    "fields": {
+      "cur_short_name": "PAB"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 104,
+    "fields": {
+      "cur_short_name": "PEN"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 105,
+    "fields": {
+      "cur_short_name": "PGK"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 106,
+    "fields": {
+      "cur_short_name": "PHP"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 107,
+    "fields": {
+      "cur_short_name": "PKR"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 108,
+    "fields": {
+      "cur_short_name": "PLN"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 109,
+    "fields": {
+      "cur_short_name": "PYG"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 110,
+    "fields": {
+      "cur_short_name": "QAR"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 111,
+    "fields": {
+      "cur_short_name": "RON"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 112,
+    "fields": {
+      "cur_short_name": "RSD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 113,
+    "fields": {
+      "cur_short_name": "RUB"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 114,
+    "fields": {
+      "cur_short_name": "RWF"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 115,
+    "fields": {
+      "cur_short_name": "SAR"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 116,
+    "fields": {
+      "cur_short_name": "SBD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 117,
+    "fields": {
+      "cur_short_name": "SCR"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 118,
+    "fields": {
+      "cur_short_name": "SDG"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 119,
+    "fields": {
+      "cur_short_name": "SEK"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 120,
+    "fields": {
+      "cur_short_name": "SGD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 121,
+    "fields": {
+      "cur_short_name": "SHP"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 122,
+    "fields": {
+      "cur_short_name": "SLL"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 123,
+    "fields": {
+      "cur_short_name": "SOS"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 124,
+    "fields": {
+      "cur_short_name": "SRD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 125,
+    "fields": {
+      "cur_short_name": "STD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 126,
+    "fields": {
+      "cur_short_name": "SYP"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 127,
+    "fields": {
+      "cur_short_name": "SZL"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 128,
+    "fields": {
+      "cur_short_name": "THB"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 129,
+    "fields": {
+      "cur_short_name": "TJS"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 130,
+    "fields": {
+      "cur_short_name": "TMT"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 131,
+    "fields": {
+      "cur_short_name": "TND"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 132,
+    "fields": {
+      "cur_short_name": "TOP"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 133,
+    "fields": {
+      "cur_short_name": "TRY"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 134,
+    "fields": {
+      "cur_short_name": "TTD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 135,
+    "fields": {
+      "cur_short_name": "TWD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 136,
+    "fields": {
+      "cur_short_name": "TZS"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 137,
+    "fields": {
+      "cur_short_name": "UAH"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 138,
+    "fields": {
+      "cur_short_name": "UGX"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 139,
+    "fields": {
+      "cur_short_name": "USD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 140,
+    "fields": {
+      "cur_short_name": "UYU"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 141,
+    "fields": {
+      "cur_short_name": "UZS"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 142,
+    "fields": {
+      "cur_short_name": "VEF"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 143,
+    "fields": {
+      "cur_short_name": "VND"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 144,
+    "fields": {
+      "cur_short_name": "VUV"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 145,
+    "fields": {
+      "cur_short_name": "WST"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 146,
+    "fields": {
+      "cur_short_name": "XCD"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 147,
+    "fields": {
+      "cur_short_name": "YER"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 148,
+    "fields": {
+      "cur_short_name": "ZAR"
+    }
+  },
+{
+    "model": "education_data.CurrencyList",
+    "pk": 149,
+    "fields": {
+      "cur_short_name": "ZMW"
+    }
+  }
+]

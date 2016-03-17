@@ -15,3 +15,9 @@ class Education(models.Model):
 
     def __unicode__(self):
         return self.education
+
+class CurrencyList(models.Model):
+    cur_short_name = models.CharField(max_length=3)
+    
+    def __unicode__(self):
+        return self.cur_short_name
