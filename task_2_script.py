@@ -21,11 +21,9 @@ def CurrencyConverter1(currency_from, currency_to, currency_input):
                 currency_to)
             return result
         except (ValueError, KeyError, TypeError), e:
-            print e
             return "JSON format error"
 
     except IOError, e:
-        print e
         if hasattr(e, 'code'):
             return e.code
         elif hasattr(e, 'reason'):
@@ -47,21 +45,68 @@ def CurrencyConverter2(currency_from, currency_to, currency_input):
                 currency_output,
                 currency_to)
             return result
-        except (ValueError, KeyError, TypeError):
+        except (ValueError, KeyError, TypeError), e:
+            print e
             return "JSON format error"
 
     except IOError, e:
+        print e
         if hasattr(e, 'code'):
             return e.code
         elif hasattr(e, 'reason'):
             return e.reason
 
-currency_from = raw_input(
-    "Enter currency from which you want to convert: "
-    ).upper()
-currency_to = raw_input(
-    "Enter currency to which you want to convert: "
-    ).upper()
+
+def enter_currency(from_flag):
+    cur_list = [
+        'AED', 'AFN', 'ALL', 'AMD', 'ANG', 'AOA', 'ARS', 'AUD', 'AWG', 'AZN',
+        'BAM', 'BBD', 'BDT', 'BGN', 'BHD', 'BIF', 'BMD', 'BND', 'BRL', 'BWP',
+        'BYR', 'BZD',
+        'CAD', 'CDF', 'CHF', 'CLF', 'CLP', 'CNY', 'COP', 'CRC', 'CUP', 'CVE',
+        'CZK',
+        'DJF', 'DKK', 'DOP', 'DZD',
+        'EGP', 'ERN', 'ETB', 'EUR',
+        'FJD', 'FKP',
+        'GBP', 'GEL', 'GHS', 'GIP', 'GMD', 'GNF', 'GTQ', 'GYD',
+        'HKD', 'HNL', 'HRK', 'HTG', 'HUF',
+        'IDR', 'ILS', 'INR', 'IQD', 'IRR', 'ISK',
+        'JMD', 'JOD', 'JPY',
+        'KES', 'KGS', 'KHR', 'KMF', 'KPW', 'KRW', 'KWD', 'KYD', 'KZT',
+        'LAK', 'LBP', 'LKR', 'LRD', 'LSL', 'LYD',
+        'MAD', 'MDL', 'MGA', 'MKD', 'MMK', 'MNT', 'MOP', 'MRO', 'MUR', 'MVR',
+        'MWK', 'MXN', 'MXV', 'MYR', 'MZN',
+        'NAD', 'NGN', 'NIO', 'NOK', 'NPR', 'NZD',
+        'OMR',
+        'PAB', 'PEN', 'PGK', 'PHP', 'PKR', 'PLN', 'PYG',
+        'QAR',
+        'RON', 'RSD', 'RUB', 'RWF',
+        'SAR', 'SBD', 'SCR', 'SDG', 'SEK', 'SGD', 'SHP', 'SLL', 'SOS', 'SRD',
+        'STD', 'SYP', 'SZL',
+        'THB', 'TJS', 'TMT', 'TND', 'TOP', 'TRY', 'TTD', 'TWD', 'TZS',
+        'UAH', 'UGX', 'USD', 'UYU', 'UZS',
+        'VEF', 'VND', 'VUV',
+        'WST',
+        'XCD',
+        'YER',
+        'ZAR', 'ZMW']
+    error = True
+    if from_flag is True:
+        ask_currency = "Enter currency FROM which you want to convert: "
+    elif from_flag is False:
+        ask_currency = "Enter currency TO which you want to convert: "
+    while error is True:
+        currency = raw_input(ask_currency).upper()
+        if currency in cur_list:
+            error = False
+        else:
+            print "You entered wrong currency. Check your entered value. "\
+                "Upper case or lower case is not important. Value must not"\
+                "contains blanks. You can enter one of the next currencies:"
+            print "============ \n %s \n ============" % cur_list
+    return currency
+
+currency_from = enter_currency(True)
+currency_to = enter_currency(False)
 currency_input = 1
 result1 = CurrencyConverter1(currency_from, currency_to, currency_input)
 print result1
